@@ -1,0 +1,8 @@
+
+{
+  "name": "The Stage - Immersive Audio Visualizer",
+  "description": "A high-performance real-time audio visualization platform using Web Audio API and HTML5 Canvas, featuring frequency bar rendering, HSL reactivity, and custom audio processing nodes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

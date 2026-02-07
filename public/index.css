@@ -1,0 +1,15 @@
+/* Global Styles */
+body {
+    background-color: #020412;
+    color: white;
+}
+
+/* Custom scrollbar for desktop */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
